@@ -46,20 +46,20 @@ h1{
 }
 @media (max-width:412px){
     #main{   font-size: 50px;
-        padding-left: 80px;
+        padding-left: 50px;
         padding-top: 80px;
         color: lime;
 }
     #here{
-        font-size: 30px;
-        padding-left: 150px;
+        font-size: 25px;
+        padding-left: 100px;
         padding-top: 100px;
         color: lime;
     }
        #para{
             color: lime;
             font-size: 20px;
-            padding-left: 150px;
+            padding-left: 120px;
             padding-top: 20px;}
 
             #b1{
